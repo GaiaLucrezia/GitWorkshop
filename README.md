@@ -1,2 +1,1 @@
-# GitWorkshop
-Tim trying to be a serious teacher
+we are adding text
